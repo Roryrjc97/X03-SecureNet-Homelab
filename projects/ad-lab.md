@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built a Windows Server 2022 Active Directory environment simulating 
+Currently building a Windows Server 2022 Active Directory environment simulating 
 a small enterprise. This lab demonstrates hands-on experience with 
 identity management, group policy, DNS, and enterprise imaging.
 
