@@ -32,7 +32,7 @@ guide while building hands-on skills. All infrastructure is built
 and operated by me - the AI helps explain concepts, troubleshoot 
 issues, and structure documentation.
 
-I believe it is morally and ethnically responsible to disclose the tool(s) I am using
+I believe it is morally and ethically responsible to disclose the tool(s) I am using
 in this journey of learning greater skills in the IT world. 
 
 ## Contact
