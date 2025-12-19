@@ -24,11 +24,6 @@ Goal: Systems Administrator / Network Administrator
 - [ ] CompTIA Network+ (Planned)
 - [ ] CCNA (Planned)
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/rory-collins-098a57125/) | [Email](mailto:roryrjc97@gmail.com)
-
-
 ## Disclosure
 
 This portfolio and documentation was developed with assistance from 
@@ -39,3 +34,7 @@ issues, and structure documentation.
 
 I believe it is morally and ethnically responsible to disclose the tool(s) I am using
 in this journey of learning greater skills in the IT world. 
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rory-collins-098a57125/) | [Email](mailto:roryrjc97@gmail.com)
