@@ -26,4 +26,4 @@ Goal: Systems Administrator / Network Administrator
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rory-collins-098a57125/) | [Email](roryrjc97@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rory-collins-098a57125/) | [Email](mailto:roryrjc97@gmail.com)
