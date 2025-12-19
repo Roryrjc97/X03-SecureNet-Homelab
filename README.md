@@ -12,10 +12,7 @@ Goal: Systems Administrator / Network Administrator
 
 - [Active Directory Lab](projects/ad-lab.md) - Windows Server 2022, 
   AD DS, GPO, DNS, enterprise imaging
-- [Multi-Site Scanning Infrastructure](projects/multi-site-scanning.md) - 
-  Multi-location deployment over site-to-site VPN
-- [PXE Imaging Server](projects/pxe-imaging.md) - WDS/MDT with 
-  automated deployment
+  > ⚠️ **Status: In Progress**
 
 ## Certifications
 
