@@ -20,6 +20,7 @@ Goal: Systems Administrator / Network Administrator
 
 - [Ansible Setup](side-projects/Ansible-Setup.md) - Configuration management for Proxmox cluster automation
   > ✅ **Status: Completed**
+  
 ## Certifications
 
 - [ ] CompTIA A+ (in progress)
