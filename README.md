@@ -16,6 +16,10 @@ Goal: Systems Administrator / Network Administrator
 - [OpenMediaVault NAS](projects/OMV-NAS.md) - Raspberry Pi 4, Argon EON, SMB/NFS, Proxmox integration
   > ✅ **Status: Completed**
 
+## Side Projects
+
+- [Ansible Setup](side-projects/ansible-setup.md) - Configuration management for Proxmox cluster automation
+
 ## Certifications
 
 - [ ] CompTIA A+ (in progress)
