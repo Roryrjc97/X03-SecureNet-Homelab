@@ -13,6 +13,7 @@ Goal: Systems Administrator / Network Administrator
 - [Active Directory Lab](projects/ad-lab.md) - Windows Server 2022, 
   AD DS, GPO, DNS, enterprise imaging
   > ⚠️ **Status: In Progress**
+- [OpenMediaVault NAS] (projects/OMV-NAS.md)
 
 ## Certifications
 
