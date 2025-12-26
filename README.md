@@ -15,6 +15,8 @@ Goal: Systems Administrator / Network Administrator
   > ⚠️ **Status: In Progress**
 - [OpenMediaVault NAS](projects/OMV-NAS.md) - Raspberry Pi 4, Argon EON, SMB/NFS, Proxmox integration
   > ✅ **Status: Completed**
+- [Proxmox Cluster](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/proxmox-cluster.md) - 4-node virtualization cluster with 128GB RAM and Ansible automation
+  > ✅ **Status: Completed**
 
 ## Side Projects
 
