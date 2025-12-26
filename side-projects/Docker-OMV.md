@@ -181,8 +181,8 @@ Candidates for containerization on this NAS:
 
 ## Related Projects
 
-- [OpenMediaVault NAS](projects/OMV-NAS.md) - The underlying NAS platform
-- [Proxmox Cluster](projects/proxmox-cluster.md) - Alternative container host for heavier workloads
+- [OpenMediaVault NAS](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/OMV-NAS.md) - The underlying NAS platform
+- [Proxmox Cluster](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/proxmox-cluster.md) - Alternative container host for heavier workloads
 
 ---
 
