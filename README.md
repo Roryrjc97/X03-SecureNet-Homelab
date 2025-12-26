@@ -21,7 +21,7 @@ Goal: Systems Administrator / Network Administrator
 - [Ansible Setup](side-projects/Ansible-Setup.md) - Configuration management for Proxmox cluster automation
   > ✅ **Status: Completed**
 
-- [Docker on OMV](side-projects/docker-omv.md) - Container deployment on Raspberry Pi 4 NAS with Jellyfin media server
+- [Docker on OMV](side-projects/Docker-OMV.md) - Container deployment on Raspberry Pi 4 NAS with Jellyfin media server
    > ✅ **Status: Completed**
    
 ## Certifications
