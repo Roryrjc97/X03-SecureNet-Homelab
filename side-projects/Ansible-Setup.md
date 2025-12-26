@@ -181,8 +181,8 @@ ansible proxmox_nodes -m apt -a "name=sudo state=present"
 
 ## Related Projects
 
-- [Proxmox Cluster](../projects/proxmox-cluster.md) - The infrastructure being managed
-- [OpenMediaVault NAS](../projects/OMV-NAS.md) - Future Ansible target
+- [Proxmox Cluster](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/Proxmox-Cluster.md) - The infrastructure being managed
+- [OpenMediaVault NAS](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/OMV-NAS.md) - Future Ansible target
 
 ---
 
