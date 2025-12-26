@@ -10,20 +10,20 @@ Goal: Systems Administrator / Network Administrator
 
 ## Projects
 
-- [Active Directory Lab](projects/ad-lab.md) - Windows Server 2022, 
+- [Active Directory Lab](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/ad-lab.md) - Windows Server 2022, 
   AD DS, GPO, DNS, enterprise imaging
   > ⚠️ **Status: In Progress**
-- [OpenMediaVault NAS](projects/OMV-NAS.md) - Raspberry Pi 4, Argon EON, SMB/NFS, Proxmox integration
+- [OpenMediaVault NAS]([projects/OMV-NAS.md](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/OMV-NAS.md)) - Raspberry Pi 4, Argon EON, SMB/NFS, Proxmox integration
   > ✅ **Status: Completed**
 - [Proxmox Cluster](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/projects/Proxmox-Cluster.md) - 4-node virtualization cluster with 128GB RAM and Ansible automation
   > ✅ **Status: Completed**
 
 ## Side Projects
 
-- [Ansible Setup](side-projects/Ansible-Setup.md) - Configuration management for Proxmox cluster automation
+- [Ansible Setup](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/side-projects/Ansible-Setup.md) - Configuration management for Proxmox cluster automation
   > ✅ **Status: Completed**
 
-- [Docker on OMV](side-projects/Docker-OMV.md) - Container deployment on Raspberry Pi 4 NAS with Jellyfin media server
+- [Docker on OMV]([side-projects/Docker-OMV.md](https://github.com/Roryrjc97/X03-SecureNet-Homelab/blob/main/side-projects/Docker-OMV.md)) - Container deployment on Raspberry Pi 4 NAS with Jellyfin media server
    > ✅ **Status: Completed**
    
 ## Certifications
